@@ -16,7 +16,7 @@ The application is designed with the following classes:
 - `Main`: The entry point of the program, setting up sample movies and rentals, and printing out a statement.
 
 ## Key remarks
-- **Project Naming**: Renamed `movie-rental-ledgern` name of project to `movie-rental-ledger-refactoring-first-phase` – project names should use lowercase letters and hyphens, be unique and original.
+- **Project Naming**: Renamed `movie-rental-ledger` name of project to `movie-rental-ledger-refactoring-first-phase` – project names should use lowercase letters and hyphens, be unique and original.
 - **Enhanced Readability**: Indentation and spacing have been adjusted to improve readability, making the code easier to understand and maintain.
 
 ### First Phase of Refactoring
